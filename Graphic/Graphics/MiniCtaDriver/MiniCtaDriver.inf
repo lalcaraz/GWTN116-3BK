@@ -1,0 +1,82 @@
+;=============================================================================
+;
+; Copyright (c) Intel Corporation (2017).
+;
+; INTEL MAKES NO WARRANTY OF ANY KIND REGARDING THE CODE.  THIS CODE IS
+; LICENSED ON AN "AS IS" BASIS AND INTEL WILL NOT PROVIDE ANY SUPPORT,
+; ASSISTANCE, INSTALLATION, TRAINING OR OTHER SERVICES.  INTEL DOES NOT
+; PROVIDE ANY UPDATES, ENHANCEMENTS OR EXTENSIONS.  INTEL SPECIFICALLY
+; DISCLAIMS ANY WARRANTY OF MERCHANTABILITY, NONINFRINGEMENT, FITNESS FOR ANY
+; PARTICULAR PURPOSE, OR ANY OTHER WARRANTY.  Intel disclaims all liability,
+; including liability for infringement of any proprietary rights, relating to
+; use of the code. No license, express or implied, by estoppel or otherwise,
+; to any intellectual property rights is granted herein.
+;
+;=============================================================================
+[Version]
+Signature="$WINDOWS NT$"
+Class=CTA Driver Devices
+ClassGuid={7BFD0817-DC85-41C5-8A55-BF38B1A1667E}
+Provider=%Intc%
+DriverVer = 08/11/2020,17.33.27.257
+CatalogFile=MiniCtaDriver.cat
+PnpLockdown=1
+
+[ClassInstall32]
+Addreg=CPClassReg
+
+[CPClassReg]
+HKR,,,0,%CPClassName%
+HKR,,Icon,,-5
+
+[DestinationDirs]
+DefaultDestDir = 13
+
+[SourceDisksNames]
+1 = %DiskName%,,,""
+
+[SourceDisksFiles]
+MiniCtaDriver.sys = 1,,
+
+
+;*****************************************
+; Install Section
+;*****************************************
+
+[Manufacturer]
+%Intc%=CPDevice,NTamd64
+
+[CPDevice.NTamd64]
+%CP.DeviceDesc%=CP_Device, PCI\VEN_8086&DEV_490E    ; DG1
+%CP.DeviceDesc%=CP_Device, PCI\VEN_8086&DEV_09A7    ; ICX, ATS, SPR, ...
+
+[CP_Device.NTamd64.HW]
+Include=machine.inf
+Needs=PciD3ColdSupported.Hw
+AddReg=Directed_PowerTransition
+
+[Directed_PowerTransition]
+HKR,"WDF","WdfDirectedPowerTransitionEnable",0x00010001,1
+
+[CP_Device.NTamd64]
+CopyFiles=CPDriverFiles
+
+[CPDriverFiles]
+MiniCtaDriver.sys
+
+[CP_Device.NTamd64.Services]
+AddService=miniCtaDriver,0x00000002,CPServiceInstall
+
+[CPServiceInstall]
+DisplayName    = %CP.ServiceDesc%
+ServiceType    = 1               ; SERVICE_KERNEL_DRIVER
+StartType      = 3               ; SERVICE_DEMAND_START
+ErrorControl   = 1               ; SERVICE_ERROR_NORMAL
+ServiceBinary  = %13%\MiniCtaDriver.sys
+
+[Strings]
+Intc="Intel Corporation"
+CPClassName="CTA Driver Devices"
+DiskName="Mini CTA Driver Source Disk"
+CP.DeviceDesc="Mini CTA Driver"
+CP.ServiceDesc="Mini CP Driver"

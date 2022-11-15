@@ -1,0 +1,2230 @@
+/*****************************************************************************
+ *	Copyright(c) 2017,  RealTeK Technology Inc. All Right Reserved.
+ *   
+ *	Realtek Bluetooth Filter ONLY Driver package Release Note
+ *			
+ * 
+*****************************************************************************
+######################################################################################
+version: 1.8.1037.210709
+1. Update driver version to v1037.x006
+2. Update Service
+3. Update FW patch
+
+
+8723DE
+subHCI Version: 0XD2A8(53928)
+subLMP Version: 0X3117(12567)
+CoexVersion: 20210106-3b3b
+8821CE
+subHCI Version: 0XD2A8(53928)
+subLMP Version: 0XECFB(60667)
+CoexVersion: 20210121-5454
+8822BE
+subHCI Version: 0XD2A8(53928)
+subLMP Version: 0X3116(12566)
+CoexVersion: 20210106-8080
+8822CE
+subHCI Version: 0XD9A8(55720)
+subLMP Version: 0XED01(60673)
+CoexVersion: 20210106-2020
+
+######################################################################################
+version: 1.8.1037.210630
+1. Update driver version to v1037.x005
+2. Update Service
+3. Support Win10x64 Only
+
+
+8723DE
+HCI version: 8.53928	LMP version: 8.12567
+CoexVersion: 20210106-3b3b
+8821CE
+HCI version: 8.53928	LMP version: 8.42367
+CoexVersion: 20210121-5454
+8822BE
+HCI version: 8.53928	LMP version: 8.12566
+CoexVersion: 20210106-8080
+8822CE
+HCI version: 8.55720	LMP version: 8.40973
+CoexVersion: 20210106-2020
+######################################################################################
+version: 1.8.1037.210524
+1. Update driver version to v1037.x004
+2. Update FW
+
+
+8723DE
+HCI version: 8.53928	LMP version: 8.12567
+CoexVersion: 20210106-3b3b
+8821CE
+HCI version: 8.53928	LMP version: 8.42367
+CoexVersion: 20210121-5454
+8822BE
+HCI version: 8.53928	LMP version: 8.12566
+CoexVersion: 20210106-8080
+8822CE
+HCI version: 8.55720	LMP version: 8.40973
+CoexVersion: 20210106-2020
+######################################################################################
+version: 1.8.1037.210511
+1. Update driver version to v1037.x003
+2. Update FW
+
+
+8723DE
+HCI version: 8.53928	LMP version: 8.12567
+CoexVersion: 20210106-3b3b
+8821CE
+HCI version: 8.53928	LMP version: 8.12566
+CoexVersion: 20210121-5454
+8822BE
+HCI version: 8.53928	LMP version: 8.12566
+CoexVersion: 20210106-8080
+8822CE
+HCI version: 8.55720	LMP version: 8.40973
+CoexVersion: 20210106-2020
+######################################################################################
+version: 1.8.1037.210414
+1. Update driver version to v1037.x002
+2. Update FW
+3. Update Service
+
+
+8723DE
+HCI version: 8.53928	LMP version: 8.12567
+CoexVersion: 20210106-3b3b
+8821CE
+HCI version: 8.53928	LMP version: 8.12566
+CoexVersion: 20210121-5454
+8822BE
+HCI version: 8.53928	LMP version: 8.12566
+CoexVersion: 20210106-8080
+8822CE
+HCI version: 8.55720	LMP version: 8.31474
+CoexVersion: 20210106-2020
+######################################################################################
+version: 1.8.1037.210301
+1. Update driver version to v1037.x001
+2. Update FW
+
+
+8723DE
+HCI version: 8.53928	LMP version: 8.12567
+CoexVersion: 20210106-3b3b
+8821CE
+HCI version: 8.53928	LMP version: 8.12566
+CoexVersion: 20210121-5454
+8822BE
+HCI version: 8.53928	LMP version: 8.12566
+CoexVersion: 20210106-8080
+8822CE
+HCI version: 8.55720	LMP version: 8.12566
+CoexVersion: 20210106-2020
+######################################################################################
+version: 1.8.1037.210130
+1. Update driver version to v1037.x000
+2. Update FW
+3. Add New ID
+
+
+8723DE
+HCI version: 8.53928	LMP version: 8.1065
+CoexVersion: 20210106-3b3b
+8821CE
+HCI version: 8.53928	LMP version: 8.2072
+CoexVersion: 20210121-5454
+8822BE
+HCI version: 8.53928	LMP version: 8.1067
+CoexVersion: 20210106-8080
+8822CE
+HCI version: 8.55720	LMP version: 8.2565
+CoexVersion: 20210106-2020
+######################################################################################
+version: 1.8.1030.210126
+1. Update driver version to v1030.x012
+2. Update FW
+
+
+8723DE
+HCI version: 8.53914 LMP version: 8.30566
+CoexVersion: 20200103-3535
+8821CE
+HCI version: 8.53928 LMP version: 8.2072
+CoexVersion: 20210121-5454
+8822BE
+HCI version: 8.53914 LMP version: 8.30566
+CoexVersion: 20200529-7e7e
+8822CE
+HCI version: 8.55720 LMP version: 8.2565
+CoexVersion: 20210106-2020
+######################################################################################
+version: 1.8.1030.201231
+1. Update driver version to v1030.x010
+2. Update FW
+
+
+8723DE
+HCI version: 8.53914 LMP version: 8.30566
+CoexVersion: 20200103-3535
+8821CE
+HCI version: 8.53914 LMP version: 8.30566
+CoexVersion: 20200529-5050
+8822BE
+HCI version: 8.53914 LMP version: 8.30566
+CoexVersion: 20200529-7e7e
+8822CE
+HCI version: 8.55706 LMP version: 8.30566
+CoexVersion: 20200529-1c1c
+######################################################################################
+version: 1.8.1030.201218
+1. Update driver version to v1030.x008
+2. Update FW
+3. Add New ID
+
+
+8723DE
+HCI version: 8.53914 LMP version: 8.28177
+CoexVersion: 20200103-3535
+8821CE
+HCI version: 8.53914 LMP version: 8.28278
+CoexVersion: 20200529-5050
+8822BE
+HCI version: 8.53914 LMP version: 8.28177
+CoexVersion: 20200529-7e7e
+8822CE
+HCI version: 8.55706 LMP version: 8.28565
+CoexVersion: 20200529-1c1c
+######################################################################################
+version: 1.8.1030.200908
+1. Update driver version to v1030.x007
+2. Update FW
+
+
+
+8723DE
+HCI version: 8.53913 LMP version: 8.33905
+CoexVersion: 20200103-3535
+8821CE
+HCI version: 8.53913 LMP version: 8.33909
+CoexVersion: 20200529-5050
+8822BE
+HCI version: 8.53913 LMP version: 8.33905
+CoexVersion: 20200529-7e7e
+8822CE
+HCI version: 8.55705 LMP version: 8.63715
+CoexVersion: 20200529-1c1c
+######################################################################################
+version: 1.8.1030.200805
+1. Update driver version to v1030.x002
+2. Update FW
+
+
+
+8723DE
+HCI version: 8.53913 LMP version: 8.33905
+CoexVersion: 20200103-3535
+8821CE
+HCI version: 8.53913 LMP version: 8.33909
+CoexVersion: 20200529-5050
+8822BE
+HCI version: 8.53913 LMP version: 8.33905
+CoexVersion: 20200529-7e7e
+8822CE
+HCI version: 8.55705 LMP version: 8.53506
+CoexVersion: 20200529-1c1c
+
+######################################################################################
+version: 1.8.1030.200615
+1. Update driver version to v1030.x001
+2. Update service to v49
+3. Update FW
+4. Add new ID
+
+
+8723DE
+HCI version: 8.53913 LMP version: 8.33905
+CoexVersion: 20200103-3535
+8821CE
+HCI version: 8.53913 LMP version: 8.33909
+CoexVersion: 20200529-5050
+8822BE
+HCI version: 8.53913 LMP version: 8.33905
+CoexVersion: 20200529-7e7e
+8822CE
+HCI version: 8.55705 LMP version: 8.33908
+CoexVersion: 20200529-1c1c
+
+######################################################################################
+version: 1.8.1030.200529
+1. Update driver version to v1030.x000
+2. Update service to v47
+3. Update FW
+4. First edition of 20H1 sign
+
+
+8723DE
+HCI version: 8.53913	LMP version: 8.16010
+CoexVersion: 20200103-3535
+8821CE
+HCI version: 8.53913	LMP version: 8.25703
+CoexVersion: 20200529-5050
+8822BE
+HCI version: 8.53913	LMP version: 8.25902
+CoexVersion: 20200529-7e7e
+8822CE
+HCI version: 8.55705	LMP version: 8.25902
+CoexVersion: 20200529-1c1c
+
+######################################################################################
+version: 1.8.1026.200413
+1. Update driver version to v1026.x000
+2. Update service to v44
+3. Update FW
+
+
+8723DE
+HCI version: 8.53913 LMP version: 8.13711
+CoexVersion: 20200103-3535
+8821CE
+HCI version: 8.53913 LMP version: 8.14008
+CoexVersion: 20200103-4a4a
+8822BE
+HCI version: 8.53913 LMP version: 8.14008
+CoexVersion: 20200103-7979
+8822CE
+HCI version: 8.55705 LMP version: 8.13712
+CoexVersion: 20200103-1717
+######################################################################################
+version: 1.8.1025.200327
+1. Update driver version to v1025.x000
+
+
+8723DE
+HCI version: 9.53912	LMP version: 9.59847
+CoexVersion: 20200103-3535
+8821CE
+HCI version: 9.53912	LMP version: 9.49245
+CoexVersion: 20200103-4a4a
+8822BE
+HCI version: 9.53912	LMP version: 9.50239
+CoexVersion: 20200103-7979
+8822CE
+HCI version: 10.55704	LMP version: 10.49245
+CoexVersion: 20200103-1717
+######################################################################################
+version: 1.7.1022.200213
+1. Update driver version to v1022.x004
+2. update fw
+3. update service
+
+8723DE
+HCI version: 9.53912	LMP version: 9.59847
+CoexVersion: 20200103-3535
+8821CE
+HCI version: 9.53912	LMP version: 9.49245
+CoexVersion: 20200103-4a4a
+8822BE
+HCI version: 9.53912	LMP version: 9.50239
+CoexVersion: 20200103-7979
+8822CE
+HCI version: 10.55704	LMP version: 10.49245
+CoexVersion: 20200103-1717
+######################################################################################
+version: 1.7.1022.200107
+1. Update driver version to v1022.x002
+2. update fw
+3. update service
+
+8723DE
+HCI version: 8.53912	LMP version: 8.49244
+CoexVersion: 20200103-3535
+8821CE
+HCI version: 8.53912	LMP version: 8.49245
+CoexVersion: 20200103-4a4a
+8822BE
+HCI version: 7.53912	LMP version: 7.49244
+CoexVersion: 20200103-7979
+8822CE
+HCI version: 10.55704	LMP version: 10.49245
+CoexVersion: 20200103-1717
+######################################################################################
+version: 1.7.1021.191210
+1. Update driver version to v1021.x001
+2. update service
+3. update fw
+
+8723DE
+HCI version: 8.53899	LMP version: 8.2315
+CoexVersion: 20191118-3333
+8821CE
+HCI version: 8.53899	LMP version: 8.11506
+CoexVersion: 20190927-4646
+8822BE
+HCI version: 7.53898	LMP version: 7.56146
+CoexVersion: 20190927-7575
+8822CE
+HCI version: 10.55691	LMP version: 10.11507
+CoexVersion: 20190927-1313
+######################################################################################
+version: 1.7.1021.191119
+1. Update driver version to v1021.x000
+2. update service
+3. update fw
+
+8723DE
+HCI version: 8.53899	LMP version: 8.2315
+CoexVersion: 20191118-3333
+8821CE
+HCI version: 8.53898	LMP version: 8.56146
+CoexVersion: 20190927-4646
+8822BE
+HCI version: 7.53898	LMP version: 7.56146
+CoexVersion: 20190927-7575
+8822CE
+HCI version: 10.55691	LMP version: 10.2411
+CoexVersion: 20190927-1313
+######################################################################################
+version: 1.7.1019.191008
+1. Update driver version to v1019.x006
+2. update fw
+3. modify file extension
+
+8723DE
+HCI version: 8.53898	LMP version: 8.28952
+CoexVersion: 20190509-2f2f
+8821CE
+HCI version: 8.53898	LMP version: 8.56146
+CoexVersion: 20190927-4646
+8822BE
+HCI version: 7.53898	LMP version: 7.56146
+CoexVersion: 20190927-7575
+8822CE
+HCI version: 10.55690	LMP version: 10.56145
+CoexVersion: 20190927-1313
+######################################################################################
+version: 1.7.1019.190829
+1. Update driver version to v1019.x005
+2. update service
+
+8723DE
+HCI version: 8.53898	LMP version: 8.28952
+CoexVersion: 20190509-2f2f
+8821CE
+HCI version: 8.53898	LMP version: 8.28952
+CoexVersion: 20190509-4139
+8822BE
+HCI version: 7.53898	LMP version: 7.29049
+CoexVersion: 20190509-6f6c
+8822CE
+HCI version: 10.55690	LMP version: 10.36141
+CoexVersion: 20190509-0d0d
+######################################################################################
+version: 1.7.1019.190730
+1. Update driver version to v1019.x004
+2. update fw
+3. add ID
+
+8723DE
+HCI version: 8.53898	LMP version: 8.28952
+CoexVersion: 20190509-2f2f
+8821CE
+HCI version: 8.53898	LMP version: 8.28952
+CoexVersion: 20190509-4139
+8822BE
+HCI version: 7.53898	LMP version: 7.29049
+CoexVersion: 20190509-6f6c
+8822CE
+HCI version: 10.55690	LMP version: 10.36141
+CoexVersion: 20190509-0d0d
+######################################################################################
+version: 1.7.1019.190709
+1. Update driver version to v1019.x003
+2. update fw
+3. add ID
+
+8723DE
+HCI version: 8.53898	LMP version: 8.26249
+CoexVersion: 20190509-2f2f
+8821CE
+HCI version: 8.53898	LMP version: 8.26249
+CoexVersion: 20190509-4139
+8822BE
+HCI version: 7.53898	LMP version: 7.26249
+CoexVersion: 20190509-6f6c
+8822CE
+HCI version: 10.55690	LMP version: 10.26249
+CoexVersion: 20190509-0d0d
+######################################################################################
+version: 1.7.1019.190617
+1. Update driver version to v1019.x002
+2. update fw
+3. update service to v27
+4. add ID
+
+8723DE
+HCI version: 8.53898	LMP version: 8.16553
+CoexVersion: 20190509-2f2f
+8821CE
+HCI version: 8.53898	LMP version: 8.17148
+CoexVersion: 20190509-4139
+8822BE
+HCI version: 7.53898	LMP version: 7.16553
+CoexVersion: 20190509-6f6c
+8822CE
+HCI version: 10.55690	LMP version: 10.16553
+CoexVersion: 20190509-0d0d
+######################################################################################
+version: 1.6.1015.190605
+1. Update driver version to v1015.X011
+2. update fw
+
+
+8723DE
+HCI version: 8.49802	LMP version: 8.16553
+CoexVersion: 20190509-2f2f
+8821CE
+HCI version: 8.17034	LMP version: 8.16553
+CoexVersion: 20190509-4139
+8822BE
+HCI version: 7.25226	LMP version: 7.16553
+CoexVersion: 20190509-6f6c
+8822CE
+HCI version: 10.2442	LMP version: 10.16553
+CoexVersion: 20190509-0d0d
+
+######################################################################################
+version: 1.6.1015.190515
+1. First Edition for 19H1
+2. Update driver version to v1015.X009
+3. update service
+4. update fw
+
+
+8723DE
+HCI version: 8.49802	LMP version: 8.7346
+CoexVersion: 20190509-2f2f
+8821CE
+HCI version: 8.17034	LMP version: 8.7345
+CoexVersion: 20190509-4139
+8822BE
+HCI version: 7.25226	LMP version: 7.7345
+CoexVersion: 20190509-6f6c
+8822CE
+HCI version: 10.2442	LMP version: 10.7555
+CoexVersion: 20190509-0d0d
+
+######################################################################################
+version: 1.6.1015.190412
+1. Update driver version to v1015.X008
+2. update service
+3. update 8822ce fw
+
+
+8723DE
+HCI version: 8.49801	LMP version: 8.61885
+CoexVersion: 20181116-2d2d
+8821CE
+HCI version: 8.17033	LMP version: 8.62483
+CoexVersion: 20181116-3939
+8822BE
+HCI version: 7.25225	LMP version: 7.61885
+CoexVersion: 20181116-6c6c
+8822CE
+HCI version: 10.2441	LMP version: 10.62688
+CoexVersion: 20190318-0a0a
+
+
+######################################################################################
+version: 1.6.1015.190403
+1. Update driver version to v1015.X007
+2. add IDs
+
+
+8723DE
+HCI version: 8.49801	LMP version: 8.61885
+CoexVersion: 20181116-2d2d
+8821CE
+HCI version: 8.17033	LMP version: 8.62483
+CoexVersion: 20181116-3939
+8822BE
+HCI version: 7.25225	LMP version: 7.61885
+CoexVersion: 20181116-6c6c
+8822CE
+HCI version: 10.2441	LMP version: 10.61884
+CoexVersion: 20190318-0a0a
+
+######################################################################################
+version: 1.6.1015.190401
+1. Update driver version to v1015.X006
+2. Update service
+3. Update fw 
+
+8723DE
+HCI version: 8.49801	LMP version: 8.61885
+CoexVersion: 20181116-2d2d
+8821CE
+HCI version: 8.17033	LMP version: 8.62483
+CoexVersion: 20181116-3939
+8822BE
+HCI version: 7.25225	LMP version: 7.61885
+CoexVersion: 20181116-6c6c
+8822CE
+HCI version: 10.2441	LMP version: 10.61884
+CoexVersion: 20190318-0a0a
+
+######################################################################################
+version: 1.6.1015.190320
+1. Update driver version to v1015.X005
+2. Update service
+3. Update 8822ce fw 
+
+8723DE
+HCI version: 8.49801	LMP version: 8.33682
+CoexVersion: 20181116-2d2d
+8821CE
+HCI version: 8.17033	LMP version: 8.33684
+CoexVersion: 20181116-3939
+8822BE
+HCI version: 8.25225	LMP version: 8.33684
+CoexVersion: 20181116-6c6c
+8822CE
+HCI version: 10.2441	LMP version: 10.53484
+CoexVersion: 20190318-0a0a
+######################################################################################
+version: 1.6.1015.190307
+1. Update driver version to v1015.X004
+2. Update service
+
+8723DE
+HCI version: 8.49801	LMP version: 8.33682
+CoexVersion: 20181116-2d2d
+8821CE
+HCI version: 8.17033	LMP version: 8.33684
+CoexVersion: 20181116-3939
+8822BE
+HCI version: 8.25225	LMP version: 8.33684
+CoexVersion: 20181116-6c6c
+8822CE
+HCI version: 8.2441	LMP version: 8.43080
+CoexVersion: 20190212-0909
+
+
+######################################################################################
+version: 1.6.1015.190116
+1. Update driver version to v1015.X003
+2. Update fw patch
+
+8723DE
+HCI version: 8.49801	LMP version: 8.33682
+CoexVersion: 20181116-2d2d
+8821CE
+HCI version: 8.17033	LMP version: 8.33684
+CoexVersion: 20181116-3939
+8822BE
+HCI version: 8.25225	LMP version: 8.33684
+CoexVersion: 20181116-6c6c
+8822CE
+HCI version: 8.2441	LMP version: 8.43080
+CoexVersion: 20190212-0909
+
+######################################################################################
+version: 1.6.1015.190111
+1. Update driver version to v1015.X002
+2. Update fw patch
+
+8723DE
+HCI version: 8.49787	LMP version: 8.50685
+CoexVersion: 20181116-2d2d
+8821CE
+HCI version: 8.17019	LMP version: 8.50682
+CoexVersion: 20181116-3939
+8822BE
+HCI version: 8.25211	LMP version: 8.50686
+CoexVersion: 20181116-6c6c
+8822CE
+HCI version: 8.2441	LMP version: 8.32585
+CoexVersion: 20181116-0606
+
+######################################################################################
+version: 1.6.1015.181203
+1. Update driver version to v1015.X001
+2. Update fw patch
+
+8723DE
+HCI version: 8.49787	LMP version: 8.50685
+CoexVersion: 20181116-2d2d
+8821CE
+HCI version: 8.17019	LMP version: 8.50682
+CoexVersion: 20181116-3939
+8822BE
+HCI version: 8.25211	LMP version: 8.50686
+CoexVersion: 20181116-6c6c
+8822CE Beta
+HCI version: 8.2427	LMP version: 8.51686
+CoexVersion: 20181116-0606
+
+
+######################################################################################
+version: 1.6.1015.181101
+1. Update driver version to v1015
+2. Update fw patch
+
+8723DE
+HCI version: 8.49787	LMP version: 8.42082
+CoexVersion: 20180821-2929
+8821CE
+HCI version: 8.17019	LMP version: 8.42082
+CoexVersion: 20180821-3535
+8822BE
+HCI version: 8.25211	LMP version: 8.42081
+CoexVersion: 20180821-6666
+8822CE
+HCI version: 8.2427	LMP version: 8.39888
+CoexVersion: 20180928-0404
+######################################################################################
+version: 1.5.1014.181017
+1. First Edition for RS5 RTM
+2. Filter inf date up to x003
+3. Update service version to v18
+
+8723DE
+HCI version: 8.49787	LMP version: 8.40783
+CoexVersion: 20180821-2929
+8821CE
+HCI version: 8.17019	LMP version: 8.31890
+CoexVersion: 20180821-3535
+8822BE
+HCI version: 8.25211	LMP version: 8.40783
+CoexVersion: 20180821-6666
+8822CE
+HCI version: 8.2427	LMP version: 8.39888
+CoexVersion: 20180928-0404
+######################################################################################
+version: 1.5.1014.181008 for WQC beta
+
+patch version:
+8723DE
+HCI version: 8.49787	LMP version: 8.31890
+CoexVersion: 20180821-2929
+8821CE
+HCI version: 8.17019	LMP version: 8.31890
+CoexVersion: 20180821-3535
+8822BE
+HCI version: 8.25211	LMP version: 8.31890
+CoexVersion: 20180821-6666
+8822CE
+HCI version: 8.2427	LMP version: 8.39888
+CoexVersion: 20180928-0404
+######################################################################################
+version: 1.5.1014.180913 for WQC beta
+
+patch version:
+8723DE
+HCI version: 8.49787	LMP version: 8.30388
+CoexVersion: 20180821-2929
+8821CE
+HCI version: 8.17019	LMP version: 8.30389
+CoexVersion: 20180821-3535
+8822BE
+HCI version: 8.25211	LMP version: 8.30388
+CoexVersion: 20180821-6666
+8822CE
+HCI version: 8.2427	LMP version: 8.29486
+CoexVersion: 20151130-0202
+
+
+
+
+######################################################################################
+version: 1.5.1014.180831
+1. Update filter driver to 1014
+2. Update patch
+3. Add 8822C
+
+8723DE
+HCI version: 8.49787	LMP version: 8.21387
+CoexVersion: 20180821-2929
+8821CE
+HCI version: 8.17019	LMP version: 8.21388
+CoexVersion: 20180821-3535
+8822BE
+HCI version: 8.25211	LMP version: 8.21387
+CoexVersion: 20180821-6666
+8822CE
+HCI version: 8.2427	LMP version: 8.20483
+CoexVersion: 20160018-b8ac
+
+#####################################################################################
+version: 1.5.1012.180730
+1. Update patch
+2. Update .inf version to x001
+
+
+8723DE
+HCI version: 8.49787	LMP version: 8.10387
+CoexVersion: 20180125-2323
+8821CE
+HCI version: 8.17019	LMP version: 8.10387
+CoexVersion: 20180125-2828
+8822BE
+HCI version: 7.25211	LMP version: 7.10387
+CoexVersion: 20180125-5a5a
+
+#####################################################################################
+
+version: 1.5.1012.180530 new
+1. Update patch
+2. Filter only package divide into 2 package for new card and old card each.
+   This package only support new card£¡
+
+
+8723DE
+HCI version: 8.49786	LMP version: 8.57630
+CoexVersion: 20180125-2323
+8821CE
+HCI version: 8.17018	LMP version: 8.55417
+CoexVersion: 20180125-2828
+8822BE
+HCI version: 7.25210	LMP version: 7.56425
+CoexVersion: 20180125-5a5a
+
+#####################################################################################
+version: 1.5.1012.180522 new
+1. Update patch
+2. Filter only package divide into 2 package for new card and old card each.
+   This package only support new card£¡
+
+
+8723DE
+HCI version: 8.49786	LMP version: 8.56723
+CoexVersion: 20180125-2323
+8821CE
+HCI version: 8.17018	LMP version: 8.55417
+CoexVersion: 20180125-2828
+8822BE
+HCI version: 7.25210	LMP version: 7.56425
+CoexVersion: 20180125-5a5a
+
+#####################################################################################
+
+version: 1.5.1011.180330 new
+1. Update patch
+2. Filter only package divide into 2 package for new card and old card each.
+   This package only support new card£¡
+
+723DE
+HCI version: 8.49786	LMP version: 8.45723
+CoexVersion: 20180125-2323
+8821CE
+HCI version: 8.17018	LMP version: 8.45723
+CoexVersion: 20180125-2828
+8822BE
+HCI version: 7.25210	LMP version: 7.45723
+CoexVersion: 20180125-5a5a
+
+#####################################################################################
+
+version: 1.5.1011.180315 new
+1. Update patch
+2. Filter only package divide into 2 package for new card and old card each.
+   This package only support new card£¡
+
+
+8723DE
+HCI version: 8.49786	LMP version: 8.36018
+CoexVersion: 20180125-2323
+8821CE
+HCI version: 8.17018	LMP version: 8.36018
+CoexVersion: 20180125-2828
+8822BE
+HCI version: 7.25210	LMP version: 7.36018
+CoexVersion: 20180125-5a5a
+
+
+
+#####################################################################################
+
+version: 1.5.1010.180301
+1. Update patch
+
+8723A
+HCI version 6.8239	LMP version 6.2523
+8821AE
+HCI version: 7.8300	LMP version: 7.3127
+CoexVersion: 20160816-635d
+8723BE
+HCI version: 6.10092	LMP version: 6.35022
+CoexVersion: 20171128-6d50
+8723BE S1
+HCI version: 6.9836	LMP version: 6.35023
+CoexVersion: 20171128-6d50
+8761_8192EE
+HCI version: 6.8811	LMP version: 6.40163
+CoexVersion: 20160412-423a
+8761_8812AE
+HCI version: 6.8811	LMP version: 6.40163
+CoexVersion: 20170525-0005
+8761_8192EU
+HCI version: 6.8811	LMP version: 6.40163
+CoexVersion: 20170525-0005
+8761_8814AE
+HCI version: 6.8811	LMP version: 6.40163
+CoexVersion: 20170525-0005
+8761
+HCI version: 6.8811	LMP version: 6.40163
+CoexVersion: 20160412-423a
+8723DE
+HCI version: 8.49786	LMP version: 8.35920
+CoexVersion: 20180125-2323
+8821CE
+HCI version: 8.17018	LMP version: 8.35920
+CoexVersion: 20180125-2828
+8822BE
+HCI version: 7.25210	LMP version: 7.35919
+CoexVersion: 20180125-5a5a
+
+
+#####################################################################################
+
+version: 1.5.1009.180130 v2
+1. Update patch
+2. Update installshield script using Dpinst.exe
+
+8723A
+HCI version 6.8239	LMP version 6.2523
+8821AE
+HCI version: 7.8300	LMP version: 7.3127
+CoexVersion: 20160816-635d
+8723BE
+HCI version: 6.10092	LMP version: 6.35022
+CoexVersion: 20171128-6d50
+8723BE S1
+HCI version: 6.9836	LMP version: 6.35023
+CoexVersion: 20171128-6d50
+8761_8192EE
+HCI version: 6.8811	LMP version: 6.40163
+CoexVersion: 20160412-423a
+8761_8812AE
+HCI version: 6.8811	LMP version: 6.40163
+CoexVersion: 20170525-0005
+8761_8192EU
+HCI version: 6.8811	LMP version: 6.40163
+CoexVersion: 20170525-0005
+8761
+HCI version: 6.8811	LMP version: 6.40163
+CoexVersion: 20160412-423a
+8723DE
+HCI version: 8.49786	LMP version: 8.26825
+CoexVersion: 20180125-2323
+8821CE
+HCI version: 8.17018	LMP version: 8.26825
+CoexVersion: 20180125-2828
+8822BE
+HCI version: 8.25210	LMP version: 8.26825
+CoexVersion: 20180125-5a5a
+
+#####################################################################################
+
+version: 1.5.1009.180130
+1. Update patch
+
+8723A
+HCI version 6.8239	LMP version 6.2523
+8821AE
+HCI version: 7.8300	LMP version: 7.3127
+CoexVersion: 20160816-635d
+8723BE
+HCI version: 6.10092	LMP version: 6.35022
+CoexVersion: 20171128-6d50
+8723BE S1
+HCI version: 6.9836	LMP version: 6.35023
+CoexVersion: 20171128-6d50
+8761_8192EE
+HCI version: 6.8811	LMP version: 6.40163
+CoexVersion: 20160412-423a
+8761_8812AE
+HCI version: 6.8811	LMP version: 6.40163
+CoexVersion: 20170525-0005
+8761_8192EU
+HCI version: 6.8811	LMP version: 6.40163
+CoexVersion: 20170525-0005
+8761
+HCI version: 6.8811	LMP version: 6.40163
+CoexVersion: 20160412-423a
+8723DE
+HCI version: 8.49786	LMP version: 8.26825
+CoexVersion: 20180125-2323
+8821CE
+HCI version: 8.17018	LMP version: 8.26825
+CoexVersion: 20180125-2828
+8822BE
+HCI version: 8.25210	LMP version: 8.26825
+CoexVersion: 20180125-5a5a
+
+
+#####################################################################################
+
+version: 1.5.1008.180110
+1. Update patch
+
+8723A
+HCI version 6.8239	LMP version 6.2523
+8821AE
+HCI version: 7.8300	LMP version: 7.3127
+CoexVersion: 20160816-635d
+8723BE
+HCI version: 6.10092	LMP version: 6.35022
+CoexVersion: 20171128-6d50
+8723BE S1
+HCI version: 6.9836	LMP version: 6.35023
+CoexVersion: 20171128-6d50
+8761_8192EE
+HCI version: 6.8811	LMP version: 6.40163
+CoexVersion: 20160412-423a
+8761_8812AE
+HCI version: 6.8811	LMP version: 6.40163
+CoexVersion: 20170525-0005
+8761_8192EU
+HCI version: 6.8811	LMP version: 6.40163
+CoexVersion: 20170525-0005
+8761_8814AE
+HCI version: 6.8811	LMP version: 6.40163
+CoexVersion: 20170525-0005
+8761
+HCI version: 6.8811	LMP version: 6.40163
+CoexVersion: 20160412-423a
+8723DE
+HCI version: 8.49786	LMP version: 8.15619
+CoexVersion: 20171025-2020
+8821CE
+HCI version: 8.17018	LMP version: 8.15618
+CoexVersion: 20170825-1d1d
+8822BE
+HCI version: 7.25210	LMP version: 7.15619
+CoexVersion: 20171124-5656
+
+
+#####################################################################################
+
+version: 1.5.1007.171221
+1. Update patch
+
+8723A
+HCI version 6.8239	LMP version 6.2523
+8821AE
+HCI version: 7.8300	LMP version: 7.3127
+CoexVersion: 20160816-635d
+8723BE
+HCI version: 6.10092	LMP version: 6.35022
+CoexVersion: 20171128-6d50
+8723BE S1
+HCI version: 6.9836	LMP version: 6.35023
+CoexVersion: 20171128-6d50
+8761_8192EE
+HCI version: 6.8811	LMP version: 6.40163
+CoexVersion: 20160412-423a
+8761_8812AE
+HCI version: 6.8811	LMP version: 6.40163
+CoexVersion: 20170525-0005
+8761_8192EU
+HCI version: 6.8811	LMP version: 6.40163
+CoexVersion: 20170525-0005
+8761_8814AE
+HCI version: 6.8811	LMP version: 6.40163
+CoexVersion: 20170525-0005
+8761
+HCI version: 6.8811	LMP version: 6.40163
+CoexVersion: 20160412-423a
+8723DE
+HCI version: 8.49772	LMP version: 8.43629
+CoexVersion: 20171025-2020
+8821CE
+HCI version: 8.17004	LMP version: 8.43629
+CoexVersion: 20170825-1d1d
+8822BE
+HCI version: 7.25196	LMP version: 7.43629
+CoexVersion: 20171124-5656
+
+
+#####################################################################################
+version: 1.5.1006.171124
+1. Update patch
+
+
+8723A
+HCI version 6.8239	LMP version 6.2523
+8821AE
+HCI version: 7.8300	LMP version: 7.3127
+CoexVersion: 20160816-635d
+8723BE
+HCI version: 6.10092	LMP version: 6.35022
+CoexVersion: 20171128-6d50
+8723BE S1
+HCI version: 6.9836	LMP version: 6.35023
+CoexVersion: 20171128-6d50
+8761_8192EE
+HCI version: 6.8811	LMP version: 6.40163
+CoexVersion: 20160412-423a
+8761_8812AE
+HCI version: 6.8811	LMP version: 6.40163
+CoexVersion: 20170525-0005
+8761_8192EU
+HCI version: 6.8811	LMP version: 6.40163
+CoexVersion: 20170525-0005
+8761_8814AE
+HCI version: 6.8811	LMP version: 6.40163
+CoexVersion: 20170525-0005
+8761
+HCI version: 6.8811	LMP version: 6.40163
+CoexVersion: 20160412-423a
+8723DE
+HCI version: 8.49772	LMP version: 8.34423
+CoexVersion: 20171025-2020
+8821CE
+HCI version: 8.17004	LMP version: 8.42729
+CoexVersion: 20170825-1d1d
+8822BE
+HCI version: 7.25196	LMP version: 7.42729
+CoexVersion: 20171124-5656
+
+#####################################################################################
+
+version: 1.5.1005.171102
+1. Correct  filter inf service writting
+2. Update service to v10, remove original name 
+
+8723A
+HCI version 6.8239	LMP version 6.2523
+8821AE
+HCI version: 7.8300	LMP version: 7.3127
+CoexVersion: 20160816-635d
+8723BE
+HCI version: 6.9836	LMP version: 6.24623
+CoexVersion: 20170720-6b4e
+8723BE S1
+HCI version: 6.10092	LMP version: 6.24622
+CoexVersion: 20170720-6b4e
+8761_8192EE
+HCI version: 6.8811	LMP version: 6.40163
+CoexVersion: 20160412-423a
+8761_8812AE
+HCI version: 6.8811	LMP version: 6.40163
+CoexVersion: 20170525-0005
+8761_8192EU
+HCI version: 6.8811	LMP version: 6.40163
+CoexVersion: 20170525-0005
+8761_8814AE
+HCI version: 6.8811	LMP version: 6.40163
+CoexVersion: 20170525-0005
+8761
+HCI version: 6.8811	LMP version: 6.40163
+CoexVersion: 20160412-423a
+8723DE
+HCI version: 8.49772	LMP version: 8.24627
+CoexVersion: 20171025-2020
+8821CE
+HCI version: 8.17004	LMP version: 8.24622
+CoexVersion: 20170825-1d1d
+8822BE
+HCI version: 7.25196	LMP version: 7.23223
+CoexVersion: 20170825-4b4b
+#####################################################################################
+
+version: 1.5.1004.170928
+1. Correct  filter inf service writting
+2. Update service to v10, remove original name 
+
+8723A
+HCI version 6.8239	LMP version 6.2523
+8821AE
+HCI version: 7.8300	LMP version: 7.3127
+CoexVersion: 20160816-635d
+8723BE
+HCI version: 6.10092	LMP version: 6.14624
+CoexVersion: 20170720-6b4e
+8723BE S1
+HCI version: 6.9836	LMP version: 6.14625
+CoexVersion: 20170720-6b4e
+8761_8192EE
+HCI version: 6.8811	LMP version: 6.40163
+CoexVersion: 20160412-423a
+8761_8812AE
+HCI version: 6.8811	LMP version: 6.40163
+CoexVersion: 20170525-0005
+8761_8192EU
+HCI version: 6.8811	LMP version: 6.40163
+CoexVersion: 20170525-0005
+8761_8814AE
+HCI version: 6.8811	LMP version: 6.40163
+CoexVersion: 20170525-0005
+8761
+HCI version: 6.8811	LMP version: 6.40163
+CoexVersion: 20160412-423a
+8723DE
+HCI version: 8.49772	LMP version: 8.12927
+CoexVersion: 20170825-1c1c
+8821CE
+HCI version: 8.17004	LMP version: 8.12926
+CoexVersion: 20170825-1d1d
+8822BE
+HCI version: 7.25196	LMP version: 7.12927
+CoexVersion: 20170825-4b4b
+
+
+#####################################################################################
+
+version: 1.5.1004.170926
+1. Update firmware
+2. Update Win10 RS HLK driver to 1.5.1004.3\2
+
+8723A
+HCI version 6.8239	LMP version 6.2523
+8821AE
+HCI version: 7.8300	LMP version: 7.3127
+CoexVersion: 20160816-635d
+8723BE
+HCI version: 6.10092	LMP version: 6.14624
+CoexVersion: 20170720-6b4e
+8723BE S1
+HCI version: 6.9836	LMP version: 6.14625
+CoexVersion: 20170720-6b4e
+8761_8192EE
+HCI version: 6.8811	LMP version: 6.40163
+CoexVersion: 20160412-423a
+8761_8812AE
+HCI version: 6.8811	LMP version: 6.40163
+CoexVersion: 20170525-0005
+8761_8192EU
+HCI version: 6.8811	LMP version: 6.40163
+CoexVersion: 20170525-0005
+8761_8814AE
+HCI version: 6.8811	LMP version: 6.40163
+CoexVersion: 20170525-0005
+8761
+HCI version: 6.8811	LMP version: 6.40163
+CoexVersion: 20160412-423a
+8723DE
+HCI version: 8.49772	LMP version: 8.12927
+CoexVersion: 20170825-1c1c
+8821CE
+HCI version: 8.17004	LMP version: 8.12926
+CoexVersion: 20170825-1d1d
+8822BE
+HCI version: 7.25196	LMP version: 7.12927
+CoexVersion: 20170825-4b4b
+
+
+
+
+
+#####################################################################################
+
+version: 1.4.1003.170908
+1. Update firmware
+2. Update Win10 RS HLK driver to 1.5.1003.3\2
+
+8723A
+HCI version 6.8239	LMP version 6.2523
+8821AE
+HCI version: 7.8300	LMP version: 7.3127
+CoexVersion: 20160816-635d
+8723BE
+HCI version: 6.10092	LMP version: 6.12926
+CoexVersion: 20170720-6b4e
+8723BE S1
+HCI version: 6.9836	LMP version: 6.12927
+CoexVersion: 20170720-6b4e
+8761_8192EE
+HCI version: 6.8811	LMP version: 6.40163
+CoexVersion: 20160412-423a
+8761_8812AE
+HCI version: 6.8811	LMP version: 6.40163
+CoexVersion: 20170525-0005
+8761_8192EU
+HCI version: 6.8811	LMP version: 6.40163
+CoexVersion: 20170525-0005
+8761_8814AE
+HCI version: 6.8811	LMP version: 6.40163
+CoexVersion: 20170525-0005
+8761
+HCI version: 6.8811	LMP version: 6.40163
+CoexVersion: 20160412-423a
+8723DE
+HCI version: 8.49772	LMP version: 8.12927
+CoexVersion: 20170825-1c1c
+8821CE
+HCI version: 8.17004	LMP version: 8.12926
+CoexVersion: 20170825-1d1d
+8822BE
+HCI version: 7.25196	LMP version: 7.12927
+CoexVersion: 20170825-4b4b
+
+
+
+
+#####################################################################################
+
+version: 1.4.1002.170826
+1. Update firmware
+2. Update Win10 RS HLK driver to 1.4.1002.3\2
+
+8723A
+HCI version 6.8239	LMP version 6.2523
+8821AE
+HCI version: 7.8300	LMP version: 7.3127
+CoexVersion: 20160816-635d
+8723BE
+HCI version: 6.10092	LMP version: 6.4626
+CoexVersion: 20170720-6b4e
+8723BE S1
+HCI version: 6.9836	LMP version: 6.4627
+CoexVersion: 20170720-6b4e
+8761_8192EE
+HCI version: 6.8811	LMP version: 6.40163
+CoexVersion: 20160412-423a
+8761_8812AE
+HCI version: 6.8811	LMP version: 6.40163
+CoexVersion: 20170525-0005
+8761_8192EU
+HCI version: 6.8811	LMP version: 6.40163
+CoexVersion: 20170525-0005
+8761_8814AE
+HCI version: 6.8811	LMP version: 6.40163
+CoexVersion: 20170525-0005
+8761
+HCI version: 6.8811	LMP version: 6.40163
+CoexVersion: 20160412-423a
+8723DE
+HCI version: 8.49772	LMP version: 8.4627
+CoexVersion: 20170825-1c1c
+8821CE
+HCI version: 8.17004	LMP version: 8.4627
+CoexVersion: 20170825-1d1d
+8822BE
+HCI version: 7.25196	LMP version: 7.4627
+CoexVersion: 20170825-4b4b
+
+
+
+#####################################################################################
+
+version: 1.4.1001.170825
+1. Update firmware
+2. Update Win10 RS HLK driver to 1.4.1001.3002\2002
+
+8723A
+HCI version 6.8239	LMP version 6.2523
+8821AE
+HCI version: 7.8300	LMP version: 7.3127
+CoexVersion: 20160816-635d
+8723BE
+HCI version: 6.10091	LMP version: 6.60060
+CoexVersion: 20170720-6b4e
+8723BE S1
+HCI version: 6.9835	LMP version: 6.60061
+CoexVersion: 20170720-6b4e
+8761_8192EE
+HCI version: 6.8811	LMP version: 6.40163
+CoexVersion: 20160412-423a
+8761_8812AE
+HCI version: 6.8811	LMP version: 6.40163
+CoexVersion: 20170525-0005
+8761_8192EU
+HCI version: 6.8811	LMP version: 6.40163
+CoexVersion: 20170525-0005
+8761_8814AE
+HCI version: 6.8811	LMP version: 6.40163
+CoexVersion: 20170525-0005
+8761
+HCI version: 6.8811	LMP version: 6.40163
+CoexVersion: 20160412-423a
+8723DE
+HCI version: 8.49772	LMP version: 8.3128
+CoexVersion: 20170306-1616
+8821CE
+HCI version: 8.17004	LMP version: 8.2825
+CoexVersion: 20170720-1b1b
+8822BE
+HCI version: 7.25196	LMP version: 7.2825
+CoexVersion: 20170720-4848
+
+
+
+#####################################################################################
+
+version: 1.4.1001.170807
+1. Update firmware
+2. Update Win10 RS HLK driver to 1.4.1001.3001\2001
+
+8723A
+HCI version 6.8239	LMP version 6.2523
+8821AE
+HCI version: 7.8285	LMP version: 7.17671
+CoexVersion: 20160816-635d
+8723BE
+HCI version: 6.10091	LMP version: 6.60060
+CoexVersion: 20170720-6b4e
+8723BE S1
+HCI version: 6.9835	LMP version: 6.60061
+CoexVersion: 20170720-6b4e
+8761_8192EE
+HCI version: 6.8811	LMP version: 6.40163
+CoexVersion: 20160412-423a
+8761_8812AE
+HCI version: 6.8811	LMP version: 6.40163
+CoexVersion: 20170525-0005
+8761_8192EU
+HCI version: 6.8811	LMP version: 6.40163
+CoexVersion: 20170525-0005
+8761_8814AE
+HCI version: 6.8811	LMP version: 6.40163
+CoexVersion: 20170525-0005
+8761
+HCI version: 6.8811	LMP version: 6.40163
+CoexVersion: 20160412-423a
+8723DE
+HCI version: 8.49771	LMP version: 8.57966
+CoexVersion: 20170306-1616
+8821CE
+HCI version: 8.17004	LMP version: 8.2825
+CoexVersion: 20170720-1b1b
+8822BE
+HCI version: 8.25196	LMP version: 8.2825
+CoexVersion: 20170720-4848
+
+
+#####################################################################################
+
+version: 1.4.887.170724
+1. Update firmware
+2. Update Win10 RS HLK driver to 1.4.1001.3\2
+
+8723A
+HCI version 6.8239	LMP version 6.2523
+8821AE
+HCI version: 7.8285	LMP version: 7.17671
+CoexVersion: 20160816-635d
+8723BE
+HCI version: 6.10091	LMP version: 6.60060
+CoexVersion: 20170720-6b4e
+8723BE S1
+HCI version: 6.9835	LMP version: 6.60061
+CoexVersion: 20170720-6b4e
+8761_8192EE
+HCI version: 6.8811	LMP version: 6.40163
+CoexVersion: 20160412-423a
+8761_8812AE
+HCI version: 6.8811	LMP version: 6.40163
+CoexVersion: 20170525-0005
+8761_8192EU
+HCI version: 6.8811	LMP version: 6.40163
+CoexVersion: 20170525-0005
+8761_8814AE
+HCI version: 6.8811	LMP version: 6.40163
+CoexVersion: 20170525-0005
+8761
+HCI version: 6.8811	LMP version: 6.40163
+CoexVersion: 20160412-423a
+8723DE
+HCI version: 8.49771	LMP version: 8.57966
+CoexVersion: 20170306-1616
+8821CE
+HCI version: 8.17003	LMP version: 8.60058
+CoexVersion: 20170720-1b1b
+8822BE
+HCI version: 8.25195	LMP version: 8.60058
+CoexVersion: 20170720-4848
+
+
+
+#####################################################################################
+
+version: 1.4.887.170710
+1. Update firmware
+2. Update Win10 RS HLK driver to 1.4.1000.3001\2001
+
+8821AE
+HCI version: 7.8285	LMP version: 7.17671
+CoexVersion: 20160816-635d
+8723BE
+HCI version: 6.10091	LMP version: 6.58660
+CoexVersion: 20170511-6a4d
+8723BE S1
+HCI version: 6.9835	LMP version: 6.58661
+CoexVersion: 20170511-6a4d
+8761_8192EE
+HCI version: 6.8811	LMP version: 6.40163
+CoexVersion: 20160412-423a
+8761_8812AE
+HCI version: 6.8811	LMP version: 6.40163
+CoexVersion: 20170525-0005
+8761_8192EU
+HCI version: 6.8811	LMP version: 6.40163
+CoexVersion: 20170525-0005
+8761_8814AE
+HCI version: 6.8811	LMP version: 6.40163
+CoexVersion: 20170525-0005
+8761
+HCI version: 6.8811	LMP version: 6.40163
+CoexVersion: 20160412-423a
+8723DE
+HCI version: 8.49771	LMP version: 8.57966
+CoexVersion: 20170306-1616
+8821CE
+HCI version: 8.17003	LMP version: 8.57966
+CoexVersion: 20170516-1616
+8822BE
+HCI version: 8.25195	LMP version: 8.57966
+CoexVersion: 20170306-4242
+
+
+#####################################################################################
+version: 1.4.887.170627
+1. Update firmware
+2. Update Win10 RS HLK driver to 1.4.1000.3\2
+
+8723A
+HCI version 6.8239	LMP version 6.2523
+8821AE
+HCI version: 7.8285	LMP version: 7.17671
+CoexVersion: 20160816-635d
+8723BE
+HCI version: 6.10091	LMP version: 6.50258
+CoexVersion: 20170623-6b4d
+8723BE S1
+HCI version: 6.9835	LMP version: 6.50259
+CoexVersion: 20170623-6b4d
+8761_8192EE
+HCI version: 6.8811	LMP version: 6.40163
+CoexVersion: 20160412-423a
+8761_8812AE
+HCI version: 6.8811	LMP version: 6.40163
+CoexVersion: 20170525-0005
+8761_8192EU
+HCI version: 6.8811	LMP version: 6.40163
+CoexVersion: 20170525-0005
+8761_8814AE
+HCI version: 6.8811	LMP version: 6.40163
+CoexVersion: 20170525-0005
+8761
+HCI version: 6.8811	LMP version: 6.40163
+CoexVersion: 20160412-423a
+8723DE
+HCI version: 8.49771	LMP version: 8.50269
+CoexVersion: 20170306-1616
+8821CE
+HCI version: 8.17003	LMP version: 8.50368
+CoexVersion: 20170516-1616
+8822BE
+HCI version: 8.25195	LMP version: 8.50269
+CoexVersion: 20170306-4242
+
+
+#####################################################################################
+version: 1.4.887.170613
+1. Update firmware
+2. Update Win10 RS HLK driver to 1.4.887.3011\2011
+
+8723A
+HCI version 6.8239	LMP version 6.2523
+8821AE
+HCI version: 7.8285	LMP version: 7.17671
+CoexVersion: 20160816-635d
+8723BE
+HCI version: 6.10091	LMP version: 6.38762
+CoexVersion: 20170511-6a4d
+8723BE S1
+HCI version: 6.9835	LMP version: 6.38763
+CoexVersion: 20170511-6a4d
+8761_8192EE
+HCI version: 6.8811	LMP version: 6.40163
+CoexVersion: 20160412-423a
+8761_8812AE
+HCI version: 6.8811	LMP version: 6.40163
+CoexVersion: 20170525-0005
+8761_8192EU
+HCI version: 6.8811	LMP version: 6.40163
+CoexVersion: 20170525-0005
+8761_8814AE
+HCI version: 6.8811	LMP version: 6.40163
+CoexVersion: 20170525-0005
+8761
+HCI version: 6.8811	LMP version: 6.40163
+CoexVersion: 20160412-423a
+8723DE
+HCI version: 8.49771	LMP version: 8.48870
+CoexVersion: 20170306-1616
+8821CE
+HCI version: 8.17003	LMP version: 8.48870
+CoexVersion: 20170516-1616
+8822BE
+HCI version: 8.25195	LMP version: 8.48870
+CoexVersion: 20170306-4242
+
+
+
+#####################################################################################
+version: 1.4.887.170525
+1. Update firmware
+2. Update Win10 RS HLK driver to 1.4.887.3011\2011
+
+8723A
+HCI version 6.8239	LMP version 6.2523
+8821AE
+HCI version: 7.8285	LMP version: 7.17671
+CoexVersion: 20160816-635d
+8723BE
+HCI version: 6.10091	LMP version: 6.38762
+CoexVersion: 20170511-6a4d
+8723BE S1
+HCI version: 6.9835	LMP version: 6.38763
+CoexVersion: 20170511-6a4d
+8761_8192EE
+HCI version: 6.8811	LMP version: 6.39258
+CoexVersion: 20170113-0004
+8761_8812AE
+HCI version: 6.8811	LMP version: 6.30263
+CoexVersion: 20170113-0004
+8761_8192EU
+HCI version: 6.8811	LMP version: 6.39258
+CoexVersion: 20170113-0004
+8761_8814AE
+HCI version: 6.8811	LMP version: 6.39258
+CoexVersion: 20170113-0004
+8761
+HCI version: 6.8811	LMP version: 6.39258
+CoexVersion: 20160412-423a
+8723DE
+HCI version: 8.49771	LMP version: 8.28971
+CoexVersion: 20170306-1616
+8821CE
+HCI version: 8.17003	LMP version: 8.39265
+CoexVersion: 20170516-1616
+8822BE
+HCI version: 8.25195	LMP version: 8.28971
+CoexVersion: 20170306-4242
+
+#####################################################################################
+version: 1.4.887.170519
+1. Update firmware
+2. Update Win10 RS HLK driver to 1.4.887.3010\2010
+
+8723A
+HCI version 6.8239	LMP version 6.2523
+8821AE
+HCI version: 7.8285	LMP version: 7.17671
+CoexVersion: 20160816-635d
+8723BE
+HCI version: 6.10091	LMP version: 6.38762
+CoexVersion: 20170511-6a4d
+8723BE S1
+HCI version: 6.9835	LMP version: 6.38763
+CoexVersion: 20170511-6a4d
+8761_8192EE
+HCI version: 6.8810	LMP version: 6.63795
+CoexVersion: 20161024-0003
+8761_8812AE
+HCI version: 6.8810	LMP version: 6.63795
+CoexVersion: 20161024-0003
+8761_8192EU
+HCI version: 6.8810	LMP version: 6.63795
+CoexVersion: 20161024-0003
+8761_8814AE
+HCI version: 6.8810	LMP version: 6.63795
+CoexVersion: 20161024-0003
+8761
+HCI version: 6.8810	LMP version: 6.63795
+CoexVersion: 20160412-423a
+8723DE
+HCI version: 8.49771	LMP version: 8.28971
+CoexVersion: 20170306-1616
+8821CE
+HCI version: 8.17003	LMP version: 8.39265
+CoexVersion: 20170516-1616
+8822BE
+HCI version: 8.25195	LMP version: 8.28971
+CoexVersion: 20170306-4242
+
+#####################################################################################
+version: 1.4.887.170518
+1. Update firmware
+2. Update Win10 RS HLK driver to 1.4.887.3009\2009
+
+8723A
+HCI version 6.8239	LMP version 6.2523
+8821AE
+HCI version: 7.8285	LMP version: 7.17671
+CoexVersion: 20160816-635d
+8723BE
+HCI version: 6.10091	LMP version: 6.38762
+CoexVersion: 20170511-6a4d
+8723BE S1
+HCI version: 6.9835	LMP version: 6.38763
+CoexVersion: 20170511-6a4d
+8761_8192EE
+HCI version: 6.8810	LMP version: 6.63795
+CoexVersion: 20161024-0003
+8761_8812AE
+HCI version: 6.8810	LMP version: 6.63795
+CoexVersion: 20161024-0003
+8761_8192EU
+HCI version: 6.8810	LMP version: 6.63795
+CoexVersion: 20161024-0003
+8761_8814AE
+HCI version: 6.8810	LMP version: 6.63795
+CoexVersion: 20161024-0003
+8761
+HCI version: 6.8810	LMP version: 6.63795
+CoexVersion: 20160412-423a
+8723DE
+HCI version: 8.49771	LMP version: 8.28971
+CoexVersion: 20170306-1616
+8821CE
+HCI version: 8.17003	LMP version: 8.39265
+CoexVersion: 20170516-1616
+8822BE
+HCI version: 8.25195	LMP version: 8.28971
+CoexVersion: 20170306-4242
+
+#####################################################################################
+version: 1.4.887.170510
+1. Update firmware
+2. Update Win10 RS HLK driver to 1.4.887.3009\2009
+
+8723A
+HCI version 6.8239	LMP version 6.2523
+8821AE
+HCI version: 7.8285	LMP version: 7.17671
+CoexVersion: 20160816-635d
+8723BE
+HCI version: 6.10091	LMP version: 6.38762
+CoexVersion: 20170511-6a4d
+8723BE S1
+HCI version: 6.9835	LMP version: 6.38763
+CoexVersion: 20170511-6a4d
+8761_8192EE
+HCI version: 6.8810	LMP version: 6.63795
+CoexVersion: 20161024-0003
+8761_8812AE
+HCI version: 6.8810	LMP version: 6.63795
+CoexVersion: 20161024-0003
+8761_8192EU
+HCI version: 6.8810	LMP version: 6.63795
+CoexVersion: 20161024-0003
+8761_8814AE
+HCI version: 6.8810	LMP version: 6.63795
+CoexVersion: 20161024-0003
+8761
+HCI version: 6.8810	LMP version: 6.63795
+CoexVersion: 20160412-423a
+8723DE
+HCI version: 8.49771	LMP version: 8.28971
+CoexVersion: 20170306-1616
+8821CE
+HCI version: 8.17003	LMP version: 8.38163
+CoexVersion: 20170223-1111
+8822BE
+HCI version: 8.25195	LMP version: 8.28971
+CoexVersion: 20170306-4242
+
+
+######################################################################################
+version: 1.4.887.042417 
+1. Update firmware
+2. Update Win10 RS HLK driver to 1.4.887.3009\2009
+
+patch version
+8723A
+HCI version 6.8239	LMP version 6.2523
+8821AE
+HCI version: 7.8285	LMP version: 7.17671
+CoexVersion: 20160816-635d
+8723BE
+HCI version: 6.10091	LMP version: 6.28970
+CoexVersion: 20161007-694c
+8723BE S1
+HCI version: 6.9835	LMP version: 6.28971
+CoexVersion: 20161007-694c
+8761_8192EE
+HCI version: 6.8810	LMP version: 6.63795
+CoexVersion: 20161024-0003
+8761_8812AE
+HCI version: 6.8810	LMP version: 6.63795
+CoexVersion: 20161024-0003
+8761_8192EU
+HCI version: 6.8810	LMP version: 6.63795
+CoexVersion: 20161024-0003
+8761_8814AE
+HCI version: 6.8810	LMP version: 6.63795
+CoexVersion: 20161024-0003
+8761
+HCI version: 6.8810	LMP version: 6.63795
+CoexVersion: 20160412-423a
+8723DE
+HCI version: 8.49771	LMP version: 8.28971
+CoexVersion: 20170306-1616
+8821CE
+HCI version: 8.17003	LMP version: 8.28971
+CoexVersion: 20170223-1111
+8822BE
+HCI version: 8.25195	LMP version: 8.28971
+CoexVersion: 20170306-4242
+
+#################################################################
+
+version: 1.4.887.032917 
+1. Update firmware
+2. Update Win10 RS HLK driver to 1.4.887.3008\2008
+
+patch version
+
+8723A
+HCI version 6.8239	LMP version 6.2523
+8821AE
+HCI version: 7.8285	LMP version: 7.17671
+CoexVersion: 20160816-635d
+8723BE
+HCI version: 6.10091	LMP version: 6.20470
+CoexVersion: 20161007-694c
+8723BE S1
+HCI version: 6.9835	LMP version: 6.20471
+CoexVersion: 20161007-694c
+8761_8192EE
+HCI version: 6.8810	LMP version: 6.63795
+CoexVersion: 20161024-0003
+8761_8812AE
+HCI version: 6.8810	LMP version: 6.63795
+CoexVersion: 20161024-0003
+8761_8192EU
+HCI version: 6.8810	LMP version: 6.63795
+CoexVersion: 20161024-0003
+8761_8814AE
+HCI version: 6.8810	LMP version: 6.63795
+CoexVersion: 20161024-0003
+8761
+HCI version: 6.8810	LMP version: 6.63795
+CoexVersion: 20160412-423a
+8723DE
+HCI version: 8.49771	LMP version: 8.20471
+CoexVersion: 20170306-1616
+8821CE
+HCI version: 8.17003	LMP version: 8.20471
+CoexVersion: 20170223-1111
+8822BE
+HCI version: 8.25195	LMP version: 8.20471
+CoexVersion: 20170306-4242
+
+
+######################################################################################
+
+¡¾From now on (v032917), the newest release note is in the front!!¡¿
+
+######################################################################################
+
+
+====================================================
+	version: 1.3.857.041515
+	NOTE:
+	1. Normal release
+
+====================================================
+	version: 1.3.857.042115
+	NOTE:
+	1. Update silent install record files
+	2. Update driver to win10 test sign version
+
+====================================================
+	version: 1.3.857.042915
+	NOTE:
+	1. Modify install path
+
+====================================================
+	version: 1.3.865.051815
+	NOTE:
+	1. Update driver 
+	2. Update patch
+====================================================
+	version: 1.3.865.052915
+	NOTE:
+	1. Update driver to WHLK version
+====================================================
+	version: 1.3.868.060315
+	NOTE:
+	1. Update driver
+====================================================
+	version: 1.3.868.071015
+	NOTE:
+	1. Update patch
+====================================================
+	version: 1.3.868.102815
+	NOTE:
+	1. Fix remove IS uninstall registry
+====================================================
+	version: 1.3.879.110515
+	NOTE:
+	1. Add "USB\VID_0BDA&PID_3508"
+====================================================
+	version: 1.3.879.011916
+	NOTE:
+	1. Add "USB\VID_0BDA&PID_3509"
+====================================================
+	version: 1.3.879.022216
+	NOTE:
+	1. Add EXE signature
+====================================================
+	version: 1.3.886.030716
+	NOTE:
+	1. Update filter driver
+====================================================
+	version: 1.3.887.041216
+	NOTE:
+	1. Update filter driver
+	2. Update firmware
+====================================================
+	version: 1.3.887.051116
+	NOTE:
+	1. Update filter driver for inf install
+====================================================
+	version: 1.3.887.072116
+	NOTE:
+	1. Update firmware
+
+====================================================
+	version: 1.3.887.072816
+	NOTE:
+	1. Update 8822BE firmware
+
+====================================================
+	version: 1.4.887.082616
+	NOTE:
+	1. Update firmware
+	2. Update Win10 RS HLK driver
+
+	8723A
+	HCI version: 6.8268	LMP version: 6.61679
+	8821AE
+	HCI version: 7.8284	LMP version: 7.52303
+	CoexVersion: 20160630-625c
+	8723BE
+	HCI version: 6.10076	LMP version: 6.52302
+	CoexVersion: 20160721-674a
+	8723BE S1
+	HCI version: 6.9820	LMP version: 6.52303
+	CoexVersion: 20160721-674a
+	8761_8192EE
+	HCI version: 6.8796	LMP version: 6.51502
+	CoexVersion: 20160412-423a
+	8761_8812AE
+	HCI version: 6.8796	LMP version: 6.51502
+	CoexVersion: 20160805-443c
+	8761_8192EU
+	HCI version: 6.8796	LMP version: 6.51502
+	CoexVersion: 20150615-4139
+	8761
+	HCI version: 6.8796	LMP version: 6.51502
+	CoexVersion: 20160412-423a
+	8723DE
+	HCI version: 8.49756	LMP version: 8.53102
+	CoexVersion: 20160805-0c0c
+	8821CE
+	HCI version: 8.16988	LMP version: 8.52002
+	CoexVersion: 20160805-0404
+	8822BE
+	HCI version: 7.25180	LMP version: 7.53102
+	CoexVersion: 20160816-2828
+
+====================================================
+version: 1.4.887.110716
+NOTE:
+1. Update firmware
+2. Update Win10 RS HLK driver to 1.4.887.3002\2002
+
+8723A
+HCI version 6.8239	LMP version 6.2523
+8821AE
+HCI version: 7.8284	LMP version: 7.52303
+CoexVersion: 20160630-625c
+8723BE
+HCI version: 6.10077	LMP version: 6.7160
+CoexVersion: 20161007-694c
+8723BE S1
+HCI version: 6.9821	LMP version: 6.7161
+CoexVersion: 20161007-694c
+8761_8192EE
+HCI version: 6.8797	LMP version: 6.6866
+CoexVersion: 20161013-0002
+8761_8812AE
+HCI version: 6.8797	LMP version: 6.6866
+CoexVersion: 20161013-0002
+8761_8192EU
+HCI version: 6.8797	LMP version: 6.6866
+CoexVersion: 20161013-0002
+8761_8814AE
+HCI version: 6.8797	LMP version: 6.6866
+CoexVersion: 20161013-0002
+8761
+HCI version: 6.8797	LMP version: 6.6866
+CoexVersion: 20160412-423a
+8723DE
+HCI version: 8.49756	LMP version: 8.53102
+CoexVersion: 20160805-0c0c
+8821CE
+HCI version: 8.16988	LMP version: 8.62609
+CoexVersion: 20160913-0606
+8822BE
+HCI version: 7.25180	LMP version: 7.61908
+CoexVersion: 20160909-2a2a
+
+====================================================
+version: 1.4.887.112316 for NEC
+NOTE:
+1. Update firmware
+2. Update Win10 RS HLK driver to 1.4.887.3003\2003
+
+8723A
+HCI version 6.8239	LMP version 6.2523
+8821AE
+HCI version: 7.8285	LMP version: 7.17671
+CoexVersion: 20160816-635d
+8723BE
+HCI version: 6.10077	LMP version: 6.17964
+CoexVersion: 20161007-694c
+8723BE S1
+HCI version: 6.9821	LMP version: 6.17965
+CoexVersion: 20161007-694c
+8761_8192EE
+HCI version: 6.8797	LMP version: 6.17967
+CoexVersion: 20161024-0003
+8761_8812AE
+HCI version: 6.8797	LMP version: 6.17967
+CoexVersion: 20161024-0003
+8761_8192EU
+HCI version: 6.8797	LMP version: 6.17967
+CoexVersion: 20161024-0003
+8761_8814AE
+HCI version: 6.8797	LMP version: 6.17967
+CoexVersion: 20161024-0003
+8761
+HCI version: 6.8797	LMP version: 6.17967
+CoexVersion: 20160412-423a
+8723DE
+HCI version: 8.49757	LMP version: 8.17966
+CoexVersion: 20161108-1010
+8821CE
+HCI version: 8.16989	LMP version: 8.17966
+CoexVersion: 20161107-0a0a
+8822BE
+HCI version: 7.25181	LMP version: 7.18068
+CoexVersion: 20160909-2a2a
+
+
+====================================================
+version: 1.4.887.121416 
+1. Update firmware
+2. Update Win10 RS HLK driver to 1.4.887.3004\2004
+
+8723A
+HCI version 6.8239	LMP version 6.2523
+8821AE
+HCI version: 7.8285	LMP version: 7.17671
+CoexVersion: 20160816-635d
+8723BE
+HCI version: 6.10077	LMP version: 6.17964
+CoexVersion: 20161007-694c
+8723BE S1
+HCI version: 6.9821	LMP version: 6.17965
+CoexVersion: 20161007-694c
+8761_8192EE
+HCI version: 6.8797	LMP version: 6.26566
+CoexVersion: 20161024-0003
+8761_8812AE
+HCI version: 6.8797	LMP version: 6.26566
+CoexVersion: 20161024-0003
+8761_8192EU
+HCI version: 6.8797	LMP version: 6.26566
+CoexVersion: 20161024-0003
+8761_8814AE
+HCI version: 6.8797	LMP version: 6.26566
+CoexVersion: 20161024-0003
+8761
+HCI version: 6.8797	LMP version: 6.26566
+CoexVersion: 20160412-423a
+8723DE
+HCI version: 8.49757	LMP version: 8.17966
+CoexVersion: 20161108-1010
+8821CE
+HCI version: 8.16989	LMP version: 8.17966
+CoexVersion: 20161107-0a0a
+8822BE
+HCI version: 7.25181	LMP version: 7.18068
+CoexVersion: 20160909-2a2a
+
+
+====================================================
+version: 1.4.887.122316 
+1. Update firmware
+2. Update Win10 RS HLK driver to 1.4.887.3005\2005
+
+8723A
+HCI version 6.8239	LMP version 6.2523
+8821AE
+HCI version: 7.8285	LMP version: 7.17671
+CoexVersion: 20160816-635d
+8723BE
+HCI version: 6.10077	LMP version: 6.17964
+CoexVersion: 20161007-694c
+8723BE S1
+HCI version: 6.9821	LMP version: 6.17965
+CoexVersion: 20161007-694c
+8761_8192EE
+HCI version: 6.8797	LMP version: 6.26566
+CoexVersion: 20161024-0003
+8761_8812AE
+HCI version: 6.8797	LMP version: 6.26566
+CoexVersion: 20161024-0003
+8761_8192EU
+HCI version: 6.8797	LMP version: 6.26566
+CoexVersion: 20161024-0003
+8761_8814AE
+HCI version: 6.8797	LMP version: 6.26566
+CoexVersion: 20161024-0003
+8761
+HCI version: 6.8797	LMP version: 6.26566
+CoexVersion: 20160412-423a
+8723DE
+HCI version: 8.49757	LMP version: 8.17966
+CoexVersion: 20161108-1010
+8821CE
+HCI version: 8.16989	LMP version: 8.17966
+CoexVersion: 20161107-0a0a
+8822BE
+HCI version: 7.25181	LMP version: 7.18068
+CoexVersion: 20160909-2a2a
+
+
+====================================================
+version: 1.4.887.011117 
+1. Update firmware
+2. Update Win10 RS HLK driver to 1.4.887.3006\2006
+
+
+8723A
+HCI version 6.8239	LMP version 6.2523
+8821AE
+HCI version: 7.8285	LMP version: 7.17671
+CoexVersion: 20160816-635d
+8723BE
+HCI version: 6.10077	LMP version: 6.17964
+CoexVersion: 20161007-694c
+8723BE S1
+HCI version: 6.9821	LMP version: 6.17965
+CoexVersion: 20161007-694c
+8761_8192EE
+HCI version: 6.8810	LMP version: 6.63795
+CoexVersion: 20161024-0003
+8761_8812AE
+HCI version: 6.8810	LMP version: 6.63795
+CoexVersion: 20161024-0003
+8761_8192EU
+HCI version: 6.8810	LMP version: 6.63795
+CoexVersion: 20161024-0003
+8761_8814AE
+HCI version: 6.8810	LMP version: 6.63795
+CoexVersion: 20161024-0003
+8761
+HCI version: 6.8810	LMP version: 6.63795
+CoexVersion: 20160412-423a
+8723DE
+HCI version: 8.49757	LMP version: 8.27072
+CoexVersion: 20161108-1010
+8821CE
+HCI version: 8.16989	LMP version: 8.17966
+CoexVersion: 20161107-0a0a
+8822BE
+HCI version: 7.25181	LMP version: 7.27372
+CoexVersion: 20160909-2a2a
+
+====================================================
+version: 1.4.887.022017 
+1. Update firmware
+2. Update Win10 RS HLK driver to 1.4.887.3007\2007
+
+8723A
+HCI version 6.8239	LMP version 6.2523
+8821AE
+HCI version: 7.8285	LMP version: 7.17671
+CoexVersion: 20160816-635d
+8723BE
+HCI version: 6.10077	LMP version: 6.17964
+CoexVersion: 20161007-694c
+8723BE S1
+HCI version: 6.9821	LMP version: 6.17965
+CoexVersion: 20161007-694c
+8761_8192EE
+HCI version: 6.8810	LMP version: 6.63795
+CoexVersion: 20161024-0003
+8761_8812AE
+HCI version: 6.8810	LMP version: 6.63795
+CoexVersion: 20161024-0003
+8761_8192EU
+HCI version: 6.8810	LMP version: 6.63795
+CoexVersion: 20161024-0003
+8761_8814AE
+HCI version: 6.8810	LMP version: 6.63795
+CoexVersion: 20161024-0003
+8761
+HCI version: 6.8810	LMP version: 6.63795
+CoexVersion: 20160412-423a
+8723DE
+HCI version: 8.49770	LMP version: 8.64997
+CoexVersion: 20161108-1010
+8821CE
+HCI version: 8.17003	LMP version: 8.18561
+CoexVersion: 20170223-1111
+8822BE
+HCI version: 8.25195	LMP version: 8.18561
+CoexVersion: 20170306-4242
+
+====================================================
+version: 1.4.887.031517 
+1. Update firmware
+2. Update Win10 RS HLK driver to 1.4.887.3008\2008
+
+8723A
+HCI version 6.8239	LMP version 6.2523
+8821AE
+HCI version: 7.8285	LMP version: 7.17671
+CoexVersion: 20160816-635d
+8723BE
+HCI version: 6.10077	LMP version: 6.17964
+CoexVersion: 20161007-694c
+8723BE S1
+HCI version: 6.9821	LMP version: 6.17965
+CoexVersion: 20161007-694c
+8761_8192EE
+HCI version: 6.8810	LMP version: 6.63795
+CoexVersion: 20161024-0003
+8761_8812AE
+HCI version: 6.8810	LMP version: 6.63795
+CoexVersion: 20161024-0003
+8761_8192EU
+HCI version: 6.8810	LMP version: 6.63795
+CoexVersion: 20161024-0003
+8761_8814AE
+HCI version: 6.8810	LMP version: 6.63795
+CoexVersion: 20161024-0003
+8761
+HCI version: 6.8810	LMP version: 6.63795
+CoexVersion: 20160412-423a
+8723DE
+HCI version: 8.49771	LMP version: 8.19762
+CoexVersion: 20170306-1616
+8821CE
+HCI version: 8.17003	LMP version: 8.19764
+CoexVersion: 20170223-1111
+8822BE
+HCI version: 8.25195	LMP version: 8.19764
+CoexVersion: 20170306-4242
+
+

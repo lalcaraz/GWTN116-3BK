@@ -1,0 +1,211 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!--Created With CreateMup.exe Version 08.05.2015.1550-->
+<MUPDefinition xmlns="http://schemas.dell.com/openmanage/cm/2/0/mupdefinition.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schemas.dell.com/openmanage/cm/2/0/mupdefinition.xsd mupdefinition.xsd">
+  <packageinformation>
+    <installertype>msi</installertype>
+    <packagegrouping>single_package</packagegrouping>
+    <packagingtype>zip</packagingtype>
+    <releasetype>DRVR</releasetype>
+    <mupspecificationversion>2.4.4</mupspecificationversion>
+    <version>1929.4.0.1070</version>
+    <name>Intel(R) Trusted Execution Engine</name>
+    <supportedoperatingsystems>
+      <osidentifier name="Windows10" architecture="x86" />
+      <osidentifier name="Windows10" architecture="x64" />
+    </supportedoperatingsystems>
+    <content>
+      <Device componentID="103288">
+        <Generic>{55BC022C-955B-4D87-A88D-D3E68CBEB2F4}\CT_2A39291F-5551-482F-99CB-9E2274978CA8</Generic>
+        <Image type="DRVR" version="1731.4.0.1199">
+          <file>production\Windows10-x86\SPD.inf\SPD.inf</file>
+          <file>production\Windows10-x86\SPD.inf\SPD.cat</file>
+          <file>production\Windows10-x86\SPD.inf\SPD.sys</file>
+          <file>production\Windows10-x86\SPD.inf\SPDx64.sys</file>
+        </Image>
+      </Device>
+      <Device componentID="103288">
+        <Generic>{55BC022C-955B-4D87-A88D-D3E68CBEB2F4}\CT_2A39291F-5551-482F-99CB-9E2274978CA8</Generic>
+        <Image type="DRVR" version="1731.4.0.1199">
+          <file>production\Windows10-x64\SPD.inf\SPD.inf</file>
+          <file>production\Windows10-x64\SPD.inf\SPD.cat</file>
+          <file>production\Windows10-x64\SPD.inf\SPD.sys</file>
+          <file>production\Windows10-x64\SPD.inf\SPDx64.sys</file>
+        </Image>
+      </Device>
+      <Device componentID="103288">
+        <PCIInfo vendorID="8086" deviceID="9D3A" />
+        <PCIInfo vendorID="8086" deviceID="A2BA" />
+        <PCIInfo vendorID="8086" deviceID="A1BA" />
+        <PCIInfo vendorID="8086" deviceID="5A9A" />
+        <PCIInfo vendorID="8086" deviceID="319A" />
+        <PCIInfo vendorID="8086" deviceID="9DE0" />
+        <PCIInfo vendorID="8086" deviceID="A360" />
+        <PCIInfo vendorID="8086" deviceID="3DE0" />
+        <PCIInfo vendorID="8086" deviceID="34E0" />
+        <PCIInfo vendorID="8086" deviceID="38E0" />
+        <PCIInfo vendorID="8086" deviceID="18D3" />
+        <PCIInfo vendorID="8086" deviceID="02E0" />
+        <PCIInfo vendorID="8086" deviceID="06E0" />
+        <PCIInfo vendorID="8086" deviceID="A0E0" />
+        <Image type="DRVR" version="1924.4.0.1062">
+          <file>production\Windows10-x86\OemExtension.inf\OemExtension.inf</file>
+          <file>production\Windows10-x86\OemExtension.inf\OemExtension.cat</file>
+        </Image>
+      </Device>
+      <Device componentID="103288">
+        <PCIInfo vendorID="8086" deviceID="9D3A" />
+        <PCIInfo vendorID="8086" deviceID="A2BA" />
+        <PCIInfo vendorID="8086" deviceID="A1BA" />
+        <PCIInfo vendorID="8086" deviceID="5A9A" />
+        <PCIInfo vendorID="8086" deviceID="319A" />
+        <PCIInfo vendorID="8086" deviceID="9DE0" />
+        <PCIInfo vendorID="8086" deviceID="A360" />
+        <PCIInfo vendorID="8086" deviceID="3DE0" />
+        <PCIInfo vendorID="8086" deviceID="34E0" />
+        <PCIInfo vendorID="8086" deviceID="38E0" />
+        <PCIInfo vendorID="8086" deviceID="18D3" />
+        <PCIInfo vendorID="8086" deviceID="02E0" />
+        <PCIInfo vendorID="8086" deviceID="06E0" />
+        <PCIInfo vendorID="8086" deviceID="A0E0" />
+        <Image type="DRVR" version="1924.4.0.1062">
+          <file>production\Windows10-x64\OemExtension.inf\OemExtension.inf</file>
+          <file>production\Windows10-x64\OemExtension.inf\OemExtension.cat</file>
+        </Image>
+      </Device>
+      <Device componentID="103288">
+        <PCIInfo vendorID="8086" deviceID="5A9A" />
+        <PCIInfo vendorID="8086" deviceID="319A" />
+        <PCIInfo vendorID="8086" deviceID="98E0" />
+        <PCIInfo vendorID="8086" deviceID="98E5" />
+        <Image type="DRVR" version="1924.4.0.1062">
+          <file>production\Windows10-x86\txei.inf\txei.inf</file>
+          <file>production\Windows10-x86\txei.inf\txei.cat</file>
+          <file>production\Windows10-x86\txei.inf\TeeDriverW8.sys</file>
+          <file>production\Windows10-x86\txei.inf\TeeDriverW8x64.sys</file>
+        </Image>
+      </Device>
+      <Device componentID="103288">
+        <PCIInfo vendorID="8086" deviceID="5A9A" />
+        <PCIInfo vendorID="8086" deviceID="319A" />
+        <PCIInfo vendorID="8086" deviceID="98E0" />
+        <PCIInfo vendorID="8086" deviceID="98E5" />
+        <Image type="DRVR" version="1924.4.0.1062">
+          <file>production\Windows10-x64\txei.inf\txei.inf</file>
+          <file>production\Windows10-x64\txei.inf\txei.cat</file>
+          <file>production\Windows10-x64\txei.inf\TeeDriverW8.sys</file>
+          <file>production\Windows10-x64\txei.inf\TeeDriverW8x64.sys</file>
+        </Image>
+      </Device>
+    </content>
+  </packageinformation>
+  <executable>
+    <executablename>SetupTXE.exe</executablename>
+  </executable>
+  <behaviors>
+    <behavior name="freshinstall">
+      <vendoroption>
+        <optionvalue switch="/fresh" requiresvalue="false" />
+      </vendoroption>
+    </behavior>
+    <behavior name="extractdrivers">
+      <vendoroption>
+        <container>
+          <containervalue switch="/" requiresvalue="false" valuedelimiter=" " enclose="&quot;">v</containervalue>
+          <optionvalue switch="" requiresvalue="true" valuedelimiter="=" enclose="\&quot;">ExtractDrivers</optionvalue>
+        </container>
+      </vendoroption>
+    </behavior>
+    <behavior name="attended" />
+    <behavior name="unattended">
+      <vendoroption>
+        <optionvalue switch="/" requiresvalue="false">s</optionvalue>
+      </vendoroption>
+    </behavior>
+  </behaviors>
+  <parameters>
+    <parametermapping name="force">
+      <vendoroption>
+        <optionvalue switch="/" requiresvalue="false">overwrite</optionvalue>
+      </vendoroption>
+    </parametermapping>
+    <parametermapping name="logfile">
+      <vendoroption>
+        <optionvalue switch="/" requiresvalue="true" valuedelimiter=" " enclose="&quot;">report</optionvalue>
+      </vendoroption>
+    </parametermapping>
+  </parameters>
+  <returncodes>
+    <returncodemapping name="REBOOTING_SYSTEM">
+      <vendorreturncode>1641</vendorreturncode>
+    </returncodemapping>
+    <returncodemapping name="PASSWORD_REQUIRED">
+      <!-- Not valid -->
+      <vendorreturncode>2</vendorreturncode>
+    </returncodemapping>
+    <returncodemapping name="NO_DOWNGRADE">
+      <!--Always able to DownGrade, Installer Doesn't need to support-->
+      <vendorreturncode>9999</vendorreturncode>
+    </returncodemapping>
+    <returncodemapping name="DEP_SOFT_ERROR">
+      <!-- 1603=Standard Win32 fatal error code -->
+      <vendorreturncode>1603</vendorreturncode>
+    </returncodemapping>
+    <returncodemapping name="SUCCESS">
+      <vendorreturncode>0</vendorreturncode>
+    </returncodemapping>
+    <returncodemapping name="ERROR">
+      <vendorreturncode>1602</vendorreturncode>
+    </returncodemapping>
+    <returncodemapping name="REBOOT_REQUIRED">
+      <vendorreturncode>3010</vendorreturncode>
+    </returncodemapping>
+  </returncodes>
+  <inventorymetadata>
+    <extractdriversidentifier>
+      <!--<softwareidentityinstances></softwareidentityinstances>-->
+      <pnpids>
+        <pnpdevice componentID="103288">
+          <!--filename: \SPD.inf-->
+          <driverversion>1731.4.0.1199</driverversion>
+          <generic>{55BC022C-955B-4D87-A88D-D3E68CBEB2F4}\CT_2A39291F-5551-482F-99CB-9E2274978CA8</generic>
+        </pnpdevice>
+        <pnpdevice componentID="103288">
+          <!--filename: \win10\OemExtension.inf-->
+          <driverversion>1924.4.0.1062</driverversion>
+          <pciinfo vendorID="8086" deviceID="9D3A" />
+          <pciinfo vendorID="8086" deviceID="A2BA" />
+          <pciinfo vendorID="8086" deviceID="A1BA" />
+          <pciinfo vendorID="8086" deviceID="5A9A" />
+          <pciinfo vendorID="8086" deviceID="319A" />
+          <pciinfo vendorID="8086" deviceID="9DE0" />
+          <pciinfo vendorID="8086" deviceID="A360" />
+          <pciinfo vendorID="8086" deviceID="3DE0" />
+          <pciinfo vendorID="8086" deviceID="34E0" />
+          <pciinfo vendorID="8086" deviceID="38E0" />
+          <pciinfo vendorID="8086" deviceID="18D3" />
+          <pciinfo vendorID="8086" deviceID="02E0" />
+          <pciinfo vendorID="8086" deviceID="06E0" />
+          <pciinfo vendorID="8086" deviceID="A0E0" />
+        </pnpdevice>
+        <pnpdevice componentID="103288">
+          <!--filename: \win10\txei.inf-->
+          <driverversion>1924.4.0.1062</driverversion>
+          <pciinfo vendorID="8086" deviceID="5A9A" />
+          <pciinfo vendorID="8086" deviceID="319A" />
+          <pciinfo vendorID="8086" deviceID="98E0" />
+          <pciinfo vendorID="8086" deviceID="98E5" />
+        </pnpdevice>
+      </pnpids>
+    </extractdriversidentifier>
+    <fullpackageidentifier>
+      <registrykeys>
+        <registrykey componentID="103288">
+          <displayName>HKEY_LOCAL_MACHINE\SOFTWARE\ManageableUpdatePackage\Intel\TXE\Display</displayName>
+          <displayValue>Intel(R) Trusted Execution Engine</displayValue>
+          <name>HKEY_LOCAL_MACHINE\SOFTWARE\ManageableUpdatePackage\Intel\TXE\Version</name>
+          <value>1929.4.0.1070</value>
+        </registrykey>
+      </registrykeys>
+    </fullpackageidentifier>
+  </inventorymetadata>
+</MUPDefinition>

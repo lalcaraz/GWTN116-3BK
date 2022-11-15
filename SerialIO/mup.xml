@@ -1,0 +1,181 @@
+<?xml version="1.0"?>
+<MUPDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://schemas.dell.com/openmanage/cm/2/0/mupdefinition.xsd">
+  <packageinformation>
+    <installertype>msi</installertype>
+    <packagegrouping>single_package</packagegrouping>
+    <packagingtype>zip</packagingtype>
+    <releasetype>DRVR</releasetype>
+    <mupspecificationversion>2.4.5</mupspecificationversion>
+    <version>30.100.1915.2</version>
+    <name>LPSS</name>
+    <supportedoperatingsystems>
+      <osidentifier name="Windows10" architecture="x64" />
+      <osidentifier name="W2K16" architecture="x64" />
+    </supportedoperatingsystems>
+    <content>
+      <Device componentID="103954">
+        <PnPInfo>
+          <PNPID>INT</PNPID>
+          <PnPProductID>3453</PnPProductID>
+        </PnPInfo>
+        <Image type="DRVR" version="30.100.1915.2">
+          <file>production\Windows10-x64\iaLPSS2_GPIO2_GLK.inf\iaLPSS2_GPIO2_GLK.cat</file>
+          <file>production\Windows10-x64\iaLPSS2_GPIO2_GLK.inf\iaLPSS2_GPIO2_GLK.inf</file>
+          <file>production\Windows10-x64\iaLPSS2_GPIO2_GLK.inf\iaLPSS2_GPIO2.sys</file>
+          <file>production\W2K16-x64\iaLPSS2_GPIO2_GLK.inf\iaLPSS2_GPIO2_GLK.cat</file>
+          <file>production\W2K16-x64\iaLPSS2_GPIO2_GLK.inf\iaLPSS2_GPIO2_GLK.inf</file>
+          <file>production\W2K16-x64\iaLPSS2_GPIO2_GLK.inf\iaLPSS2_GPIO2.sys</file>
+        </Image>
+      </Device>
+      <Device componentID="103954">
+        <PCIInfo vendorID="8086" deviceID="31AC" />
+        <PCIInfo vendorID="8086" deviceID="31AE" />
+        <PCIInfo vendorID="8086" deviceID="31B0" />
+        <PCIInfo vendorID="8086" deviceID="31B2" />
+        <PCIInfo vendorID="8086" deviceID="31B4" />
+        <PCIInfo vendorID="8086" deviceID="31B6" />
+        <PCIInfo vendorID="8086" deviceID="31B8" />
+        <PCIInfo vendorID="8086" deviceID="31BA" />
+        <Image type="DRVR" version="30.100.1915.2">
+          <file>production\Windows10-x64\iaLPSS2_I2C_GLK.inf\iaLPSS2_I2C_GLK.cat</file>
+          <file>production\Windows10-x64\iaLPSS2_I2C_GLK.inf\iaLPSS2_I2C_GLK.inf</file>
+          <file>production\Windows10-x64\iaLPSS2_I2C_GLK.inf\iaLPSS2_I2C.sys</file>
+          <file>production\W2K16-x64\iaLPSS2_I2C_GLK.inf\iaLPSS2_I2C_GLK.cat</file>
+          <file>production\W2K16-x64\iaLPSS2_I2C_GLK.inf\iaLPSS2_I2C_GLK.inf</file>
+          <file>production\W2K16-x64\iaLPSS2_I2C_GLK.inf\iaLPSS2_I2C.sys</file>
+        </Image>
+      </Device>
+      <Device componentID="103954">
+        <PCIInfo vendorID="8086" deviceID="31C2" />
+        <PCIInfo vendorID="8086" deviceID="31C4" />
+        <PCIInfo vendorID="8086" deviceID="31C6" />
+        <Image type="DRVR" version="30.100.1915.2">
+          <file>production\Windows10-x64\iaLPSS2_SPI_GLK.inf\iaLPSS2_SPI_GLK.cat</file>
+          <file>production\Windows10-x64\iaLPSS2_SPI_GLK.inf\iaLPSS2_SPI_GLK.inf</file>
+          <file>production\Windows10-x64\iaLPSS2_SPI_GLK.inf\iaLPSS2_SPI.sys</file>
+          <file>production\W2K16-x64\iaLPSS2_SPI_GLK.inf\iaLPSS2_SPI_GLK.cat</file>
+          <file>production\W2K16-x64\iaLPSS2_SPI_GLK.inf\iaLPSS2_SPI_GLK.inf</file>
+          <file>production\W2K16-x64\iaLPSS2_SPI_GLK.inf\iaLPSS2_SPI.sys</file>
+        </Image>
+      </Device>
+      <Device componentID="103954">
+        <PCIInfo vendorID="8086" deviceID="31BC" />
+        <PCIInfo vendorID="8086" deviceID="31BE" />
+        <PCIInfo vendorID="8086" deviceID="31C0" />
+        <PCIInfo vendorID="8086" deviceID="31EE" />
+        <Image type="DRVR" version="30.100.1915.2">
+          <file>production\Windows10-x64\iaLPSS2_UART2_GLK.inf\iaLPSS2_UART2_GLK.cat</file>
+          <file>production\Windows10-x64\iaLPSS2_UART2_GLK.inf\iaLPSS2_UART2_GLK.inf</file>
+          <file>production\Windows10-x64\iaLPSS2_UART2_GLK.inf\iaLPSS2_UART2.sys</file>
+          <file>production\W2K16-x64\iaLPSS2_UART2_GLK.inf\iaLPSS2_UART2_GLK.cat</file>
+          <file>production\W2K16-x64\iaLPSS2_UART2_GLK.inf\iaLPSS2_UART2_GLK.inf</file>
+          <file>production\W2K16-x64\iaLPSS2_UART2_GLK.inf\iaLPSS2_UART2.sys</file>
+        </Image>
+      </Device>
+    </content>
+  </packageinformation>
+  <executable>
+    <executablename>SetupSerialIO.exe</executablename>
+  </executable>
+  <behaviors>
+    <behavior name="extractdrivers">
+      <vendoroption>
+        <container>
+          <containervalue switch="/" requiresvalue="false" valuedelimiter=" " enclose="&quot;">v</containervalue>
+          <optionvalue switch="" requiresvalue="true" valuedelimiter="=" enclose="\&quot;">ExtractDrivers</optionvalue>
+        </container>
+      </vendoroption>
+    </behavior>
+    <behavior name="attended" />
+    <behavior name="unattended">
+      <vendoroption>
+        <optionvalue switch="/" requiresvalue="false">s</optionvalue>
+      </vendoroption>
+    </behavior>
+    <behavior name="freshinstall">
+      <vendoroption>
+        <optionvalue switch="/" requiresvalue="false">fresh</optionvalue>
+      </vendoroption>
+    </behavior>
+  </behaviors>
+  <parameters>
+    <parametermapping name="force">
+      <vendoroption>
+        <optionvalue switch="/" requiresvalue="false">overwrite</optionvalue>
+      </vendoroption>
+    </parametermapping>
+    <parametermapping name="logfile">
+      <vendoroption>
+        <optionvalue switch="/" requiresvalue="true" valuedelimiter=" " enclose="&quot;">report</optionvalue>
+      </vendoroption>
+    </parametermapping>
+  </parameters>
+  <returncodes>
+    <returncodemapping name="REBOOTING_SYSTEM">
+      <vendorreturncode>1641</vendorreturncode>
+    </returncodemapping>
+    <returncodemapping name="PASSWORD_REQUIRED">
+      <vendorreturncode>2</vendorreturncode>
+    </returncodemapping>
+    <returncodemapping name="NO_DOWNGRADE">
+      <vendorreturncode>9999</vendorreturncode>
+    </returncodemapping>
+    <returncodemapping name="DEP_SOFT_ERROR">
+      <vendorreturncode>1603</vendorreturncode>
+    </returncodemapping>
+    <returncodemapping name="SUCCESS">
+      <vendorreturncode>0</vendorreturncode>
+    </returncodemapping>
+    <returncodemapping name="ERROR">
+      <vendorreturncode>1602</vendorreturncode>
+    </returncodemapping>
+    <returncodemapping name="REBOOT_REQUIRED">
+      <vendorreturncode>3010</vendorreturncode>
+    </returncodemapping>
+  </returncodes>
+  <inventorymetadata>
+    <extractdriversidentifier>
+      <pnpids>
+        <pnpdevice componentID="103954">
+          <driverversion>30.100.1915.2</driverversion>
+          <pnpidstring>
+            <PNPID>INT</PNPID>
+            <PnPProductID>3453</PnPProductID>
+          </pnpidstring>
+        </pnpdevice>
+        <pnpdevice componentID="103954">
+          <driverversion>30.100.1915.2</driverversion>
+          <pciinfo vendorID="8086" deviceID="31AC" />
+          <pciinfo vendorID="8086" deviceID="31AE" />
+          <pciinfo vendorID="8086" deviceID="31B0" />
+          <pciinfo vendorID="8086" deviceID="31B2" />
+          <pciinfo vendorID="8086" deviceID="31B4" />
+          <pciinfo vendorID="8086" deviceID="31B6" />
+          <pciinfo vendorID="8086" deviceID="31B8" />
+          <pciinfo vendorID="8086" deviceID="31BA" />
+        </pnpdevice>
+        <pnpdevice componentID="103954">
+          <driverversion>30.100.1915.2</driverversion>
+          <pciinfo vendorID="8086" deviceID="31C2" />
+          <pciinfo vendorID="8086" deviceID="31C4" />
+          <pciinfo vendorID="8086" deviceID="31C6" />
+        </pnpdevice>
+        <pnpdevice componentID="103954">
+          <driverversion>30.100.1915.2</driverversion>
+          <pciinfo vendorID="8086" deviceID="31BC" />
+          <pciinfo vendorID="8086" deviceID="31BE" />
+          <pciinfo vendorID="8086" deviceID="31C0" />
+          <pciinfo vendorID="8086" deviceID="31EE" />
+        </pnpdevice>
+      </pnpids>
+    </extractdriversidentifier>
+    <fullpackageidentifier>
+      <msis>
+        <msi componentID="103954">
+          <upgradecode>{A2E02A9B-E18C-4F02-B3B8-89B17FAE1A54}</upgradecode>
+          <version>30.100.1915.2</version>
+        </msi>
+      </msis>
+    </fullpackageidentifier>
+  </inventorymetadata>
+</MUPDefinition>
